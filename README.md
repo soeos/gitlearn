@@ -1,4 +1,4 @@
-# My Git Project
+# Git Project
 
 ## Description
 Welcome to my Git project! In this project, I will be showcasing my coding skills and collaborating with other developers. I will be using Git, a distributed version control system, to manage and track changes to my codebase.
