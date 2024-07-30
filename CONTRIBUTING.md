@@ -1,6 +1,7 @@
 # CONTRIBUTING
 
 Thank you for your interest in contributing to our project! We welcome contributions from the community to help make our project even better.
+Thanks.
 
 ## Getting Started
 
